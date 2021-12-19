@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hireme/static/css/main.02d6f649.chunk.css",
+    "main.js": "/hireme/static/js/main.9899d2a4.chunk.js",
+    "main.js.map": "/hireme/static/js/main.9899d2a4.chunk.js.map",
+    "runtime-main.js": "/hireme/static/js/runtime-main.b01cbb1e.js",
+    "runtime-main.js.map": "/hireme/static/js/runtime-main.b01cbb1e.js.map",
+    "static/js/2.7fb84cbe.chunk.js": "/hireme/static/js/2.7fb84cbe.chunk.js",
+    "static/js/2.7fb84cbe.chunk.js.map": "/hireme/static/js/2.7fb84cbe.chunk.js.map",
+    "index.html": "/hireme/index.html",
+    "static/css/main.02d6f649.chunk.css.map": "/hireme/static/css/main.02d6f649.chunk.css.map",
+    "static/js/2.7fb84cbe.chunk.js.LICENSE.txt": "/hireme/static/js/2.7fb84cbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b01cbb1e.js",
+    "static/js/2.7fb84cbe.chunk.js",
+    "static/css/main.02d6f649.chunk.css",
+    "static/js/main.9899d2a4.chunk.js"
+  ]
+}
